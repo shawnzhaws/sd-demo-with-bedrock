@@ -1,0 +1,6 @@
+boto3==1.28.70
+sagemaker==2.194.0
+stability-sdk @ git+https://github.com/Stability-AI/stability-sdk.git@sagemaker
+protobuf==3.20
+streamlit
+Pillow
